@@ -6,7 +6,7 @@
 
 **Architecture:** Extract common skill discovery/parsing logic into `lib/skills-core.js`, refactor Codex to use it, then build OpenCode plugin using their native plugin API with custom tools and session hooks.
 
-**Tech Stack:** Node.js, JavaScript, OpenCode Plugin API, Git worktrees
+**Tech Stack:** Node.js, JavaScript, OpenCode Plugin API
 
 ---
 

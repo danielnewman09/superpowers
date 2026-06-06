@@ -260,8 +260,8 @@ superpowers/
 
 ## Next Steps
 
-1. **Create isolated workspace** (using git worktrees)
-   - Branch: `feature/opencode-support`
+1. **Create isolated workspace**
+   Branch: `feature/opencode-support`
 
 2. **Follow TDD where applicable**
    - Test shared core functions
